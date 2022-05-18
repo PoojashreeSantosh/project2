@@ -1,12 +1,12 @@
 #!/bin/bash
-echo "Enter a number"
+#echo "Enter a number"
 #moving to git
 #changing to check
 #changing again to check
 # Read the number
-read num                
+#read num                
 fact=1
-
+num=3
 # -gt is used for '>' Greater than sign
 while [ $num -gt 1 ]  
 do
